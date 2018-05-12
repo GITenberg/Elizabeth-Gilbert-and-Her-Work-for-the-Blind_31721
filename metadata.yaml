@@ -1,0 +1,27 @@
+_repo: Elizabeth-Gilbert-and-Her-Work-for-the-Blind_31721
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Martin, Frances
+    gutenberg_agent_id: '35430'
+    url: http://www.gutenberg.org/2009/agents/35430
+description: ''
+gutenberg_issued: '2010-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31721'
+  lccn: e09001624
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gilbert, Elizabeth Margaretta Maria, 1826-1885'
+- !lcsh 'Blind -- Employment'
+- !lcc 'HV'
+- !lcsh 'Blind -- Education'
+title: Elizabeth Gilbert and Her Work for the Blind
+url: http://www.gutenberg.org/ebooks/31721
